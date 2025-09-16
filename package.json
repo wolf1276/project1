@@ -1,0 +1,23 @@
+{
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "a project management application for beginers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolf1276/project1.git"
+  },
+  "author": "ahir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolf1276/project1/issues"
+  },
+  "homepage": "https://github.com/wolf1276/project1#readme",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
